@@ -1,0 +1,16 @@
+777 777 3 90 65 7 7 8
+hello hello 3 105 60 18 8 8
+kkk kkk 3 115 60 18 8 8
+gh wb 3 80 60 7 7 8
+he he 3 75 60 7 7 4
+jyseven 777 3 65 60 0 7 8
+kygo *** 4 65 60 100 3 7
+yassmine *** 4 160 170 45 3 7
+gg wp 2 95 0 0 5 3
+major lazor 2 125 0 0 5 3
+ok bye 2 150 0 0 5 3
+bla bla 2 190 0 0 5 3
+martin *** 4 75 60 45 3 7
+jjjj jjjj 1 0 0 0 7 2
+ahmed zellou 2 75 0 0 5 3
+3roubi hh 2 235 0 0 5 3
